@@ -57,8 +57,8 @@ else
 		/// @DnDVersion : 1
 		/// @DnDHash : 76AA6A84
 		/// @DnDParent : 3781BF14
-		/// @DnDArgument : "speed" "speed*0.5"
+		/// @DnDArgument : "speed" "-speed*0.5"
 		/// @DnDArgument : "type" "1"
-		hspeed = speed*0.5;
+		hspeed = -speed*0.5;
 	}
 }

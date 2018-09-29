@@ -9,7 +9,8 @@ if(jump_state == 0)
 	/// @DnDHash : 36EED7B4
 	/// @DnDParent : 07D7F8F8
 	/// @DnDArgument : "speed" "-30"
-	speed = -30;
+	/// @DnDArgument : "type" "2"
+	vspeed = -30;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
